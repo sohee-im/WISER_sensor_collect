@@ -1,7 +1,7 @@
 import typer
 
 from .dataAcquisition import dataAcquisition
-from .dataAcquisition import test
+#4rom .dataAcquisition import test
 
 
 app = typer.Typer()
